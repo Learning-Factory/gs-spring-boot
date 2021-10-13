@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: AzureVMS
+  name: 'AzureVMS'
   vmImage: 'buildVM'
 
 steps:
